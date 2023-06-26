@@ -22,7 +22,7 @@ const LISTE_PHRASES = [
   "Le tableau de la Joconde a été peint par Léonard de Vinci.",
   "La variété de coutumes, langues et traditions des 250 ethnies composant le Nigeria lui confère une très riche diversité.",
   "Il était une fois, quelqu'un qui apprenait à écrire au clavier.",
-  "Le point le plus haut de l''Afghanistan est à 7.485m au-dessus de la mer, le Nowshak.",
+  "Le point le plus haut de l'Afghanistan est à 7.485m au-dessus de la mer, son nom est le Nowshak.",
   "Plusieurs sites sud-coréens sont inscrits au Patrimoine mondial de l’UNESCO. Ils sont au nombre de quatorze en 2021.",
   "Vous pouvez me contacter à cette adresse e-mail : prenom.nom@gmail.com !",
   "La Namibie compte 76 conservatoires communautaires sur une superficie de 155.000 km2.",
